@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/myProfile/MyProfileWebPart.js",
+      "manifest": "./src/webparts/myProfile/MyProfileWebPart.manifest.json",
+      "outputPath": "./dist/my-profile-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "MyProfileWebPartStrings": "webparts/myProfile/loc/{locale}.js"
+  }
+}

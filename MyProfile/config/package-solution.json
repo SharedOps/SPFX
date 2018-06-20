@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "my-profile-client-side-solution",
+    "id": "23a4ef3a-0db7-466b-a757-2b930887fcd6",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/my-profile.sppkg"
+  }
+}
